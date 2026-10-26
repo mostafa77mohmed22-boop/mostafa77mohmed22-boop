@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mostafa Alshibani</h1>
-<h3 align="center">Information Systems & CS student from Yemen 🇾🇪</h3>
-<p align="center"><i>Building Witr AI — an Arabic-first AI platform</i></p>
+<p align="center"><img src="banner.svg" alt="Mostafa Alshibani — Building Witr AI" width="100%" /></p>
+<h3 align="center">Hi 👋 — welcome to my corner of GitHub</h3>
 
 ## About me
 
@@ -24,6 +23,8 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa77mohmed22-boop&layout=compact" alt="Most used languages" /></td>
   </tr>
 </table>
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=mostafa77mohmed22-boop" alt="Contribution streak" /></p>
 
 ## Top repositories
 
