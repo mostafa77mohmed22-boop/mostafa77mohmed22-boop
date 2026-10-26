@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <rect width="1200" height="320" fill="#F7F3EA"/>
+  <rect y="312" width="1200" height="8" fill="#C15F3C"/>
+  <text x="70" y="72" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="5" fill="#8A8172">SANA'A &#183; YEMEN</text>
+  <text x="68" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="bold" fill="#191919">Mostafa Alshibani</text>
+  <rect x="72" y="178" width="120" height="5" fill="#C15F3C"/>
+  <text x="70" y="224" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#4A443A">Information Systems &amp; Computer Science student</text>
+  <text x="70" y="264" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic" fill="#C15F3C">Building Witr AI &#8212; an Arabic-first AI platform</text>
+  <g>
+    <rect x="952" y="58" width="30" height="30" fill="#191919"/>
+    <rect x="990" y="58" width="30" height="30" fill="#191919"/>
+    <rect x="1028" y="58" width="30" height="30" fill="#C15F3C"/>
+    <rect x="952" y="96" width="30" height="30" fill="#191919"/>
+    <rect x="1028" y="96" width="30" height="30" fill="#191919"/>
+    <rect x="990" y="134" width="30" height="30" fill="#191919"/>
+    <rect x="1066" y="134" width="30" height="30" fill="#191919"/>
+    <rect x="952" y="172" width="30" height="30" fill="#C15F3C"/>
+    <rect x="1028" y="172" width="30" height="30" fill="#191919"/>
+    <rect x="990" y="210" width="30" height="30" fill="#191919"/>
+    <rect x="1066" y="210" width="30" height="30" fill="#191919"/>
+  </g>
+</svg>
